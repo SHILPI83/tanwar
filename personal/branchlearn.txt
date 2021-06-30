@@ -1,0 +1,4 @@
+I am learning branching commands.
+git branch <new branch name>
+git branch -D <branch name>
+git checkout <branch name> for switching to branch.
